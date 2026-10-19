@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/320-research-contributor",
+    "fix/issue-320-research-research-upload-a-stellar-wave-project",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/320-research-contributor": "main",
+    "fix/issue-320-research-research-upload-a-stellar-wave-project": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/320-research-contributor",
+    "fix/issue-320-research-research-upload-a-stellar-wave-project",
+    "origin"
+  ]
+}
